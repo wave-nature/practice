@@ -1,7 +1,7 @@
 const express = require("express");
 const dotenv = require("dotenv");
 const resultRouter = require("./routes/resultRoutes");
-const companyRouter = require("./routes/comanyRoutes");
+const companyRouter = require("./routes/companyRoutes");
 
 dotenv.config({ path: ".env" });
 
