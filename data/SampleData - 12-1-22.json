@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1,
+        "first name": "shubham",
+        "last name": "vyas",
+        "results": {
+            "maths": {
+                "marks": 80
+            },
+            "science": {
+                "marks": 70
+            },
+            "english": {
+                "marks": 82
+            },
+            "socialStudies": {
+                "marks": 81
+            }
+        }
+    },
+    {
+        "id": 2,
+        "first name": "hannan",
+        "last name": "desai",
+        "results": {
+            "maths": {
+                "marks": 90
+            },
+            "science": {
+                "marks": 68
+            },
+            "english": {
+                "marks": 87
+            },
+            "socialStudies": {
+                "marks": 66
+            }
+        }
+    },
+    {
+        "id": 3,
+        "first name": "heena",
+        "last name": "patel",
+        "results": {
+            "maths": {
+                "marks": 66
+            },
+            "science": {
+                "marks": 78
+            },
+            "english": {
+                "marks": 69
+            },
+            "socialStudies": {
+                "marks": 91
+            }
+        }
+    },
+    {
+        "id": 4,
+        "first name": "janki",
+        "last name": "modi",
+        "results": {
+            "maths": {
+                "marks": 69
+            },
+            "science": {
+                "marks": 91
+            },
+            "english": {
+                "marks": 88
+            },
+            "socialStudies": {
+                "marks": 97
+            }
+        }
+    }
+]
